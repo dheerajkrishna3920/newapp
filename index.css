@@ -7,7 +7,7 @@ body{
     background-color: rgb(22, 83, 64);
     width:50%;
     border: 5px gold solid ;
-    border-radius: 80px;
+    border-radius: 30px;
 }
 .Heading{
 color:gold;
@@ -74,6 +74,7 @@ color: white;
     .col{
         height:70px;
        font-size: 10px;
+       
     }
 }
 @media(min-width:700px) and (max-width:1000px){
@@ -81,6 +82,8 @@ color: white;
         height:780px;
     }
 }
+
+
 .col{
     height:70px;
     border: 5px solid rgba(5, 153, 42, 0.49);
